@@ -84,7 +84,7 @@ public class Controller implements Initializable {
                 float euroAmount = Float.parseFloat(euroTextField.getText());
                 float rateValue = listOfCurrencies.get(rateIndex).getRate();
                 float convertedValue = euroAmount * rateValue;
-                resultLabel.setText(convertedValue + convertToCurrency);
+                resultLabel.setText(convertedValue + " " + convertToCurrency);
             }
         });
     }
