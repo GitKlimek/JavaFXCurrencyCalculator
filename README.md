@@ -8,3 +8,6 @@
   - type in the amount of money in EUR you want to convert (use "." as decimal separator)
   - select one of available currencies
   - click Calculate
+
+![Screenshot1](https://github.com/GitKlimek/JavaFXCurrencyCalculator/blob/master/screen1.png)
+![Screenshot2](https://github.com/GitKlimek/JavaFXCurrencyCalculator/blob/master/screen2.png)
